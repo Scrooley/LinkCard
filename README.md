@@ -19,7 +19,7 @@ Projeto feito com a equipe Rocketseat para ensino de tecnologias WEB. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto My Project" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto My Project" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias

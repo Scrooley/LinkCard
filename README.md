@@ -1,4 +1,4 @@
-<h1 align="center"> My Project </h1>
+<h1 align="center"> LinkCard </h1>
 
 <p align="center">
 Projeto feito durante o curso da Rocketseat para ensino de tecnologias WEB. <br/>
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O My Project é um agregador de links para usar como cartão de visitas online.
+O LinkCard é um agregador de links para usar como cartão de visitas online.
 
 ## :memo: Licença
 
